@@ -1,6 +1,6 @@
 # ubuntu-ssh
-Docker imagen de Ubuntu que se puede acceder mediante ssh 
- 
+Docker image of Ubuntu that can be accessed using ssh
+
 # USAGE
 Docker image of Ubuntu that can be accessed using ssh
 
