@@ -2,7 +2,7 @@
 Docker imagen de Ubuntu que se puede acceder mediante ssh 
  
 # USAGE
-docker run -d -p 22:22/tcp javi98/ubuntu-ssh
+Docker image of Ubuntu that can be accessed using ssh
 
 # USER AND PASSWORD
 user:     usuario
